@@ -20,12 +20,11 @@ I am head of processes engineering department in a tv production factory with 5 
 - HTML
 - CSS (Framework Bootstrap, Preprocessor SCSS, BEM methodology).
 - JavaScript (Fundamentals,Functional Programming, OOP, Asynchronous JavaScript, ES6+,DOM)
+- jQuery
+- Node.js (Express.js, EJS, working with APIs)
 - Git, GitHub
 - Figma(for web development)
-- VS Code, IntelliJ IDEA
 - ERP - SAP, MES
-- CAD - SolidWorks, NX
-
 ___
 
 ## Code examples
@@ -57,8 +56,9 @@ setInterval(setDate, 1000);
 ___
 ## Coding Experience:
 - **HTML and CSS Tutorials on the [w3schools]()**
-- **[JavaScript30](https://javascript30.com/) (inprogress)**
+- **[JavaScript30](https://javascript30.com/)**
 - **JavaScript basic - Exercises, Practice, Solution www.w3resource.com (inprogress)**
+- **The Complete 2022 Web Development Bootcamp by Dr.Angela on Udemy (inprogress)**
 ___
 ## Experience:
 
