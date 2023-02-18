@@ -17,6 +17,7 @@ I am head of processes engineering department in a tv production factory with 5 
 
 ## Skills and Proficiency: 
 
+- Markdown
 - HTML
 - CSS (Framework Bootstrap, Preprocessor SCSS, BEM methodology).
 - JavaScript (Fundamentals,Functional Programming, OOP, Asynchronous JavaScript, ES6+,DOM)
@@ -25,40 +26,14 @@ I am head of processes engineering department in a tv production factory with 5 
 - Git, GitHub
 - Figma(for web development)
 - ERP - SAP, MES
-___
-
-## Code examples
-
-Javascript30 - Project Clock
-```JavaScript
-const secondHand = document.querySelector(".second-hand");
-const minsHand = document.querySelector(".min-hand");
-const hoursHand = document.querySelector(".hour-hand");
-
-function setDate() {
-  const now = new Date();
-
-  const seconds = now.getSeconds();
-  const secondsDegree = (360 * seconds) / 60 + 90;
-  secondHand.style.transform = `rotate(${secondsDegree}deg)`;
-
-  const mins = now.getMinutes();
-  const minsDegree = (360 * mins) / 60 + 90;
-  minsHand.style.transform = `rotate(${minsDegree}deg)`;
-
-  const hours = now.getHours();
-  const hoursDegree = (360 * hours) / 12 + 90;
-  hoursHand.style.transform = `rotate(${hoursDegree}deg)`;
-}
-
-setInterval(setDate, 1000);
-```
+- VS Code, IntelliJ IDEA
 ___
 ## Coding Experience:
 - **HTML and CSS Tutorials on the [w3schools]()**
 - **[JavaScript30](https://javascript30.com/)**
-- **JavaScript basic - Exercises, Practice, Solution www.w3resource.com (inprogress)**
-- **The Complete 2022 Web Development Bootcamp by Dr.Angela on Udemy (inprogress)**
+- **JavaScript basic - Exercises, Practice, Solution www.w3resource.com**
+- **Frontend developer (in english) by EPAM 1-stage completed**
+- **The Complete 2022 Web(Full stack) Development Bootcamp by Dr.Angela on Udemy (inprogress)**
 ___
 ## Experience:
 
@@ -76,6 +51,8 @@ ___
 ## Education, Training:
 - **Bachelor, Turin Polytechnic University in Tashkent**
     - Mechanical Engineering
+- **CERT academy**
+    - Manager/Internal auditor of Quality Management System based on ISO 9001:2015
 - **GM Uzbekistan**
     - Internship
 - **Mechatronics in TTPU**
