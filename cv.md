@@ -1,4 +1,6 @@
 # Abdusalomov Abdurasul
+
+##### **Date of birth:** 04.04.1992
 ---
 ## Contact information:
 
@@ -37,13 +39,13 @@ ___
 ___
 ## Experience:
 
-- **JVC «ANDIJANCABEL»**
+- **JVC «ANDIJANCABEL», July 2008 — August 2008** 
     - Isolation machine operator - maintaining proper operation of isolation machines
-- **Computer Technology College in Khanabad**
+- **Computer Technology College in Khanabad, December 2010 — March 2011**
     - Master - Introduce cable-production process to the students
-- **«ARTEL ENGINEERING» LLC**
+- **«ARTEL ENGINEERING» LLC, June 2017 — May 2018**
     - Engineering technologist - Solving the problems during TV assembly process
-- **«ARTEL ENGINEERING» LLC**
+- **«ARTEL ENGINEERING» LLC, May 2018 — Currently**
     - Head of process engineering department - Managing of process engineering department at TV assembly factory
 
 ___
@@ -73,4 +75,3 @@ ___
 
 ## Personal Qualities:   
 - Responsible, Punctual, Leadership, Time-Management, Good communication skills, Fast learning, Critical thinking, Multitasking.
-
